@@ -7,8 +7,8 @@ This is a full working clock app with many functionalities and features
 
 ## Screenshots
 
-![Demo.gif](https://github.com/Jatin5120/Clock/blob/main/screenshots/demo.gif)
-
+![Demo.gif](https://media.giphy.com/media/ADyHM4kgYCyMasVRMo/giphy.gif)
+<br><br>
 <table>
   <tr>
     <td>
