@@ -1,8 +1,13 @@
 # Clock app
 
-This is a full working clock app
+This is a full working clock app with many functionalities and features
+#### APK to download app -> [Clock_app.apk](https://github.com/Jatin5120/Clock/blob/main/clock_app.apk)
+
+#### Incase you need any help in this you can mail me at getjatin5120@gmail.com
 
 ## Screenshots
+
+![Demo.gif](https://github.com/Jatin5120/Clock/blob/main/screenshots/demo.gif)
 
 <table>
   <tr>
@@ -35,8 +40,6 @@ This is a full working clock app
   </tr>
 </table>
 
-<br><br>
-#### Incase you need any help in this you can mail me at getjatin5120@gmail.com
 
 ## Getting Started
 
