@@ -1,4 +1,4 @@
-# clock_app
+# Clock app
 
 This is a full working clock app
 
